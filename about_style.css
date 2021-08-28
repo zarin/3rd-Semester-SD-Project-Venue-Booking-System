@@ -1,0 +1,81 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+.homepage{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)),url(about_img.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.logo_menu{
+    height: 100px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.4);
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    color: thistle;
+    margin-left: 60px;
+    font-size: 55px;
+    font-weight:1000;
+    font-family: 'Fredericka the Great', cursive;
+}
+.homepage ul li{
+    list-style-type: none;
+    display: inline-block; 
+}
+.homepage ul li a{
+    text-decoration:none;
+    color: whitesmoke;
+    padding:8px 25px;
+    transition:0.6s ease;
+}
+.homepage ul li a:hover{
+    background-color: thistle;
+    color:#000;
+}
+ul li.active a{
+    background-color:thistle;
+    color:#000;
+}
+.homepage .fa{
+    margin-right:8px;
+
+}
+.homepage{
+    max-width:1400px;
+}
+.form-box{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 850px;
+    height:320px;
+    padding: 30px;
+    background:rgba(0, 0, 0, 0.8);
+    box-sizing: border-box;
+}
+.about h1{
+    text-align:center ;
+    font-weight:normal;
+    opacity: 0.8;
+    color:whitesmoke ; 
+    font-family: 'Cinzel', serif;
+}
+.about h4{
+    text-align: justify;
+    color: whitesmoke;
+    font-size: 14px;
+    font-weight:40;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    opacity: 0.5;
+    font-family: 'Josefin Slab', serif;
+}

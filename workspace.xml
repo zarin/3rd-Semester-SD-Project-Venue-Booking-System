@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3523785-597b-4ad3-891b-8058b2142e95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l6Y4FfYtow7sMQDBnjCmhIRQ0B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.ConnectionWithDB">
+    <configuration name="ConnectionWithDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VenueBooking" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ConnectionWithDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Registration&amp;login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VenueBooking" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Registration&amp;login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VenueBooking" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VenueSql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VenueBooking" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VenueSql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ConnectionWithDB" />
+        <item itemvalue="Python.Table" />
+        <item itemvalue="Python.VenueSql" />
+        <item itemvalue="Python.Registration&amp;login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3523785-597b-4ad3-891b-8058b2142e95" name="Default Changelist" comment="" />
+      <created>1606918814155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606918814155</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1328" height="2" key="GridCell.Tab.0.bottom" timestamp="1607064417118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607064417118" />
+    <state width="1328" height="2" key="GridCell.Tab.0.center" timestamp="1607064417118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607064417118" />
+    <state width="1328" height="2" key="GridCell.Tab.0.left" timestamp="1607064417118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607064417118" />
+    <state width="1328" height="2" key="GridCell.Tab.0.right" timestamp="1607064417118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607064417118" />
+    <state x="288" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607064059583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="288" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1607064059583" />
+    <state x="225" y="347" width="1182" height="544" key="dock-window-1" timestamp="1607062309570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="225" y="347" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1607062309570" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-10" timestamp="1606922055234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-10/0.0.1366.728@0.0.1366.728" timestamp="1606922055234" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-11" timestamp="1606922055234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-11/0.0.1366.728@0.0.1366.728" timestamp="1606922055234" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-12" timestamp="1606922055234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-12/0.0.1366.728@0.0.1366.728" timestamp="1606922055234" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-13" timestamp="1606922055234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-13/0.0.1366.728@0.0.1366.728" timestamp="1606922055234" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-14" timestamp="1606922055234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-14/0.0.1366.728@0.0.1366.728" timestamp="1606922055234" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-15" timestamp="1606922055234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-15/0.0.1366.728@0.0.1366.728" timestamp="1606922055234" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-16" timestamp="1606922055234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-16/0.0.1366.728@0.0.1366.728" timestamp="1606922055234" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-17" timestamp="1606922055234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-17/0.0.1366.728@0.0.1366.728" timestamp="1606922055234" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-18" timestamp="1606922055234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-18/0.0.1366.728@0.0.1366.728" timestamp="1606922055234" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-19" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-19/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-2" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-20" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-20/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-21" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-21/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-22" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-22/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-23" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-23/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-24" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-24/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-25" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-25/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-26" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-26/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-27" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-27/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-28" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-28/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-29" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-29/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-3" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-3/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-30" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-30/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-31" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-31/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-32" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-32/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-33" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-33/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-34" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-34/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-35" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-35/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-36" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-36/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-37" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-37/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-38" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-38/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-39" timestamp="1606922055235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-39/0.0.1366.728@0.0.1366.728" timestamp="1606922055235" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-4" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-4/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-40" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-40/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-41" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-41/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-42" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-42/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-43" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-43/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-44" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-44/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-45" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-45/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-46" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-46/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-47" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-47/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-48" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-48/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-49" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-49/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-5" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-5/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-50" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-50/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-51" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-51/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-52" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-52/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-53" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-53/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-54" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-54/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-55" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-55/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-56" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-56/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-57" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-57/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-58" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-58/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-59" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-59/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-6" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-6/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-60" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-60/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-61" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-61/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-62" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-62/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-63" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-63/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-64" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-64/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-65" timestamp="1606922055236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-65/0.0.1366.728@0.0.1366.728" timestamp="1606922055236" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-66" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-66/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-67" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-67/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-68" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-68/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-69" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-69/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-7" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-7/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-70" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-70/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-71" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-71/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-72" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-72/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-73" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-73/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-74" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-74/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-75" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-75/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-76" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-76/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-8" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-8/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-9" timestamp="1606922055237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-9/0.0.1366.728@0.0.1366.728" timestamp="1606922055237" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ConnectionWithDB.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,226 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+.homepage{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to right,#fff,rgb(3, 66, 66));
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.logo_menu{
+    height: 100px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.4);
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    color:rgb(23, 11, 90);
+    margin-left: 60px;
+    font-size: 55px;
+    font-weight:1000;
+    font-family: 'Fredericka the Great', cursive;
+}
+.homepage ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.homepage ul li a{
+    text-decoration:none;
+    color: whitesmoke;
+    padding:8px 25px;
+    transition:0.6s ease;
+}
+.homepage ul li a:hover{
+    background-color: thistle;
+    color:#000;
+}
+ul li.active a{
+    background-color:thistle;
+    color:#000;
+}
+.homepage .fa{
+    margin-right:8px;
+
+}
+.homepage{
+    max-width:1400px;
+}
+.title{
+    position: absolute;
+    top:55%;
+    left:23%;
+    transform: translate(-50%,-50%);
+}
+.title h1{
+    color: #000;
+    font-size: 120px;
+    font-weight:150;
+    font-family: 'Parisienne', cursive;
+}
+.title h2{
+    color:#000;
+    font-size: 90px;
+    font-weight:100;
+    font-family: 'Abril Fatface', cursive;
+}
+.title h3{
+    color:#000;
+    font-size: 20px;
+    font-weight:15;
+    font-family: 'Sansita Swashed', cursive;
+    margin-left: 30% ;
+}
+body
+{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    overflow: hidden;
+}
+.banner1.banner2.banner3.banner4{
+    height: 60%;
+    width: 40%;
+    position: absolute;
+    left:70%;
+    top:70%;
+}
+img{
+    height:60%;
+    width: 50%;
+    position: absolute;
+    left: 70%;
+    top: 60%;
+    transform: translate(-50%, -50%); 
+    background-size: 100% 100%;
+    box-shadow: 1px 2px 10px 10px black;
+    animation: zoom-out 3s linear infinite;
+}
+@keyframes zoom-out{
+    50%{
+        width: 40%;
+    }
+}
+.text-box{
+    width:400px;
+    position: absolute;
+    top:40%;
+    left:60%;
+    color: #111;
+    animation: textup 12s linear infinite;
+    transform: translateY(100px);
+}
+.text-box h1{
+    margin-bottom:20px;
+}
+.text-box p{
+    font-size: 20px;
+    font-weight: 700;
+    line-height:18px;
+    margin-top: 10px; 
+}
+.banner1{
+    animation: b1 12s linear infinite;
+}
+.banner2{
+    animation: b2 12s linear infinite;
+}
+.banner3{
+    animation: b3 12s linear infinite;
+}
+.banner4{
+    animation: b4 12s linear infinite;
+}
+@keyframes b1{
+    0%{
+        visibility: visible;
+    }
+    25%{
+        visibility: hidden;
+    }
+    50%{
+        visibility: hidden;
+    }
+    75%{
+        visibility: hidden;
+    }
+    100%{
+        visibility: visible;
+    }
+}
+@keyframes b2{
+    0%{
+        visibility: hidden;
+    }
+    25%{
+        visibility: hidden;
+    }
+    50%{
+        visibility: visible;
+    }
+    75%{
+        visibility: hidden;
+    }
+    100%{
+        visibility: hidden;
+    }
+}
+@keyframes b3{
+    0%{
+        visibility: hidden;
+    }
+    25%{
+        visibility: hidden;
+    }
+    50%{
+        visibility: hidden;
+    }
+    75%{
+        visibility: visible;
+    }
+    100%{
+        visibility: hidden;
+    }
+}
+@keyframes b4{
+    0%{
+        visibility: hidden;
+    }
+    25%{
+        visibility: hidden;
+    }
+    50%{
+        visibility: hidden;
+    }
+    75%{
+        visibility: hidden;
+    }
+    100%{
+        visibility: visible;
+    }
+}
+ @keyframes textup{
+     10%{
+         transform: translateY(0px);
+     }
+     100%{
+        transform: translateY(0px);
+    }
+ }
+ .text-box1{
+     animation-delay: 0s; 
+ }
+ .text-box2{
+    animation-delay: 3s; 
+}
+.text-box3{
+    animation-delay: 6s; 
+}
+.text-box4{
+    animation-delay: 9s; 
+}
